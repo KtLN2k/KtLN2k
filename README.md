@@ -1,6 +1,6 @@
-<h2 align="center">👋 Hi, I'm Ben!</h2>
+<h2>👋 Hi, I'm Ben!</h2>
 
-<p align="center">
+<p>
 🎓 I'm currently a Fullstack Development student, passionate about learning and creating cool things along the way.<br>
 🧠 Constantly improving my skills in front-end and back-end development.<br>
 🌍 Based in Israel.
