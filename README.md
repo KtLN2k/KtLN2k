@@ -1,25 +1,21 @@
-# 👋 Hi
-Full-Stack Developer • Lifelong Learner • Passionate About Web Development
+# Hi 👋
 
-Currently focusing on **React, TypeScript, TailwindCSS** and building modern, responsive websites as part of my learning journey.
-
----
-
-## 📌 Recent Projects
-• [**Ben Katlan | Personal Website & Portfolio**](https://benkatalan.netlify.app/)  
-  My personal learning project – a fully responsive site built with React, TypeScript & TailwindCSS. Features smooth animations, a modern UI, and a showcase of my work.
-
-• **Learning Platform Prototype** *(in progress)*  
-  A small web app for practicing and learning web development concepts.
+**Full-Stack Developer | Lifelong Learner | Passionate About Web Development**  
+Currently focusing on learning **React**, **TypeScript** & **TailwindCSS** while building real-world projects.
 
 ---
 
-## 📦 NPM Packages *(future plans)*
-Planning to publish helper utilities for web developers as I continue learning.
+## 📌 Recent Projects:
+• [BenKatalan | Personal Website & Portfolio](https://benkatalan.netlify.app/)  
+  Fully responsive personal portfolio site, built with **React**, **TypeScript** & **TailwindCSS**.  
+  Includes a services section, portfolio gallery with interactive modals, contact form with EmailJS integration, smooth animations, and mobile-friendly navigation.
+
+• [Learning Platform Prototype](#)  
+  Small interactive learning platform for practicing and understanding modern web development concepts.
 
 ---
 
-## 💻 Languages & Technologies
+## 💻 Languages & Technologies:
 - **Front-End Tech Stack:** React.js • TypeScript • TailwindCSS • HTML5 • CSS3 • JavaScript (ES6+)
 - **Back-End Tech Stack:** Node.js • Express.js • Supabase
 - **Technologies:** Responsive Design • Git • REST APIs • EmailJS • Swiper.js • Lucide Icons
@@ -28,19 +24,17 @@ Planning to publish helper utilities for web developers as I continue learning.
 
 ---
 
-## 📚 Currently Learning
-- **Advanced React Patterns**
-- **Next.js**
-- **State Management (Redux, Zustand)**
-- **Backend Development with Node.js & Express**
-- **TypeScript Best Practices**
+## 📚 Currently Learning:
+- Advanced React Patterns
+- Next.js
+- State Management (Redux, Zustand)
+- Backend Development with Node.js & Express
+- TypeScript Best Practices
 
 ---
 
-## 🛠️ Softwares I Use
+## 🛠️ Softwares I Use:
 - **Code:** Visual Studio Code  
 - **Graphics:** Figma, Adobe Photoshop  
 - **Version Control:** Git & GitHub  
 - **Deployment:** Netlify
-
----
