@@ -6,12 +6,7 @@ Currently focusing on learning **React**, **TypeScript** & **TailwindCSS** while
 ---
 
 ## 📌 Recent Projects:
-• [BenKatalan | Personal Website & Portfolio](https://benkatalan.netlify.app/)  
-  Fully responsive personal portfolio site, built with **React**, **TypeScript** & **TailwindCSS**.  
-  Includes a services section, portfolio gallery with interactive modals, contact form with EmailJS integration, smooth animations, and mobile-friendly navigation.
-
-• [Learning Platform Prototype](#)  
-  Small interactive learning platform for practicing and understanding modern web development concepts.
+• [Ben Katalan](https://benkatalan.netlify.app/) | Fully responsive personal portfolio site, built with **React**, **TypeScript** & **TailwindCSS**.
 
 ---
 
