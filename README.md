@@ -8,7 +8,7 @@ Currently focusing on learning **React**, **TypeScript** & **TailwindCSS** while
 ## 📌 Recent Projects:
 • [Ben Katalan](https://benkatalan.netlify.app/) | Fully responsive personal portfolio site, built with **React**, **TypeScript** & **TailwindCSS**.
 
-• [React Interactive Resume](https://react-interactive.resume.netlify.app/) | A clean and modern personal resume template built with **React**, **TypeScript** & **TailwindCSS**.
+• [React Interactive Resume](https://react-interactive-resume.netlify.app/) | A clean and modern personal resume template built with **React**, **TypeScript** & **TailwindCSS**.
 
 • [Akrav-Gaming](https://akrav-gaming.netlify.app/) | A gaming web layout, for Akrav community. built with **React**, **TypeScript** & **TailwindCSS**.
 
