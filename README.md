@@ -10,6 +10,7 @@ Currently focusing on learning **React**, **TypeScript** & **TailwindCSS** while
 
 • [React Interactive Resume](https://react-interactive.resume.netlify.app/) | A clean and modern personal resume template built with **React**, **TypeScript** & **TailwindCSS**.
 
+• [Akrav-Gaming](https://akrav-gaming.netlify.app/) | A gaming website with side navbar, and clean layout. built with **React**, **TypeScript** & **TailwindCSS**.
 ---
 
 ## 💻 Languages & Technologies:
