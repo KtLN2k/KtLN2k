@@ -12,6 +12,8 @@ Currently focusing on learning **React**, **TypeScript** & **TailwindCSS** while
 
 • [Akrav-Gaming](https://akrav-gaming.netlify.app/) | A gaming web layout, for Akrav community. built with **React**, **TypeScript** & **TailwindCSS**.
 
+• [WaveWatch](https://wavewatch-app.netlify.app/) | Your go-to platform for real-time wave and weather updates. build with built with **React**, **TypeScript**, **TailwindCSS** & **OpenWeather API**.
+
 
 ---
 
