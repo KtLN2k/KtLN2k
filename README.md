@@ -14,6 +14,7 @@ Currently focusing on learning **React**, **TypeScript** & **TailwindCSS** while
 
 • [WaveWatch](https://wavewatch-app.netlify.app/) | Real-time wave and weather updates. build with built with **React**, **TypeScript**, **TailwindCSS** & **OpenWeather API**.
 
+• [1First](https://first-gaming.netlify.app/) | Gaming store webapp layout. build with built with **React**, **TypeScript**, **TailwindCSS**.
 
 ---
 
